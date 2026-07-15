@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D72428FA-32C6-438E-B907-855342F5B9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskApollo.API", "src\AskApollo.API\AskApollo.API.csproj", "{2E4AE5F3-7718-4D2A-8904-F35E3E57292C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskApollo.Application", "src\AskApollo.Application\AskApollo.Application.csproj", "{2978CE21-493B-415E-BF9E-CBE9931D9681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskApollo.Domain", "src\AskApollo.Domain\AskApollo.Domain.csproj", "{5E4C3867-1F0E-43E1-94E7-F41B85E28FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskApollo.Infrastructure", "src\AskApollo.Infrastructure\AskApollo.Infrastructure.csproj", "{17C8DFD6-AB40-4B1D-91A8-C873E95F7C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskApollo.Shared", "src\AskApollo.Shared\AskApollo.Shared.csproj", "{DFF605BA-DBBE-4DD9-8004-AB76AF45AD60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A22FA5DA-AF2B-4B81-A6E4-11F3CBCDFEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskApollo.Tests", "tests\AskApollo.Tests\AskApollo.Tests.csproj", "{B52DC0EF-CA25-4BB6-AEEC-93CFDC7E44F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4AE5F3-7718-4D2A-8904-F35E3E57292C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4AE5F3-7718-4D2A-8904-F35E3E57292C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4AE5F3-7718-4D2A-8904-F35E3E57292C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4AE5F3-7718-4D2A-8904-F35E3E57292C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2978CE21-493B-415E-BF9E-CBE9931D9681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2978CE21-493B-415E-BF9E-CBE9931D9681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2978CE21-493B-415E-BF9E-CBE9931D9681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2978CE21-493B-415E-BF9E-CBE9931D9681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4C3867-1F0E-43E1-94E7-F41B85E28FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4C3867-1F0E-43E1-94E7-F41B85E28FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4C3867-1F0E-43E1-94E7-F41B85E28FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4C3867-1F0E-43E1-94E7-F41B85E28FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C8DFD6-AB40-4B1D-91A8-C873E95F7C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C8DFD6-AB40-4B1D-91A8-C873E95F7C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C8DFD6-AB40-4B1D-91A8-C873E95F7C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C8DFD6-AB40-4B1D-91A8-C873E95F7C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF605BA-DBBE-4DD9-8004-AB76AF45AD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF605BA-DBBE-4DD9-8004-AB76AF45AD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF605BA-DBBE-4DD9-8004-AB76AF45AD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF605BA-DBBE-4DD9-8004-AB76AF45AD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52DC0EF-CA25-4BB6-AEEC-93CFDC7E44F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52DC0EF-CA25-4BB6-AEEC-93CFDC7E44F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52DC0EF-CA25-4BB6-AEEC-93CFDC7E44F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52DC0EF-CA25-4BB6-AEEC-93CFDC7E44F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E4AE5F3-7718-4D2A-8904-F35E3E57292C} = {D72428FA-32C6-438E-B907-855342F5B9CE}
+		{2978CE21-493B-415E-BF9E-CBE9931D9681} = {D72428FA-32C6-438E-B907-855342F5B9CE}
+		{5E4C3867-1F0E-43E1-94E7-F41B85E28FB9} = {D72428FA-32C6-438E-B907-855342F5B9CE}
+		{17C8DFD6-AB40-4B1D-91A8-C873E95F7C01} = {D72428FA-32C6-438E-B907-855342F5B9CE}
+		{DFF605BA-DBBE-4DD9-8004-AB76AF45AD60} = {D72428FA-32C6-438E-B907-855342F5B9CE}
+		{B52DC0EF-CA25-4BB6-AEEC-93CFDC7E44F4} = {A22FA5DA-AF2B-4B81-A6E4-11F3CBCDFEC1}
+	EndGlobalSection
+EndGlobal

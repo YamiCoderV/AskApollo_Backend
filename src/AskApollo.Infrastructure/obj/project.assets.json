@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "AskApollo.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AskApollo.Domain": "1.0.0",
+          "AskApollo.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AskApollo.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AskApollo.Application.dll": {}
+        }
+      },
+      "AskApollo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AskApollo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AskApollo.Domain.dll": {}
+        }
+      },
+      "AskApollo.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AskApollo.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AskApollo.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AskApollo.Application/1.0.0": {
+      "type": "project",
+      "path": "../AskApollo.Application/AskApollo.Application.csproj",
+      "msbuildProject": "../AskApollo.Application/AskApollo.Application.csproj"
+    },
+    "AskApollo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AskApollo.Domain/AskApollo.Domain.csproj",
+      "msbuildProject": "../AskApollo.Domain/AskApollo.Domain.csproj"
+    },
+    "AskApollo.Shared/1.0.0": {
+      "type": "project",
+      "path": "../AskApollo.Shared/AskApollo.Shared.csproj",
+      "msbuildProject": "../AskApollo.Shared/AskApollo.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "AskApollo.Application >= 1.0.0",
+      "AskApollo.Domain >= 1.0.0",
+      "AskApollo.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/amiyyadav/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/AskApollo.Infrastructure.csproj",
+      "projectName": "AskApollo.Infrastructure",
+      "projectPath": "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/AskApollo.Infrastructure.csproj",
+      "packagesPath": "/Users/amiyyadav/.nuget/packages/",
+      "outputPath": "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/amiyyadav/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Application/AskApollo.Application.csproj": {
+              "projectPath": "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Application/AskApollo.Application.csproj"
+            },
+            "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/AskApollo.Domain.csproj": {
+              "projectPath": "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/AskApollo.Domain.csproj"
+            },
+            "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/AskApollo.Shared.csproj": {
+              "projectPath": "/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/AskApollo.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/bin/Debug/net7.0/AskApollo.Domain.deps.json
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/bin/Debug/net7.0/AskApollo.Domain.dll
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/bin/Debug/net7.0/AskApollo.Domain.pdb
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/AskApollo.Domain.csproj.AssemblyReference.cache
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/AskApollo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/AskApollo.Domain.AssemblyInfoInputs.cache
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/AskApollo.Domain.AssemblyInfo.cs
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/AskApollo.Domain.csproj.CoreCompileInputs.cache
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/AskApollo.Domain.dll
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/refint/AskApollo.Domain.dll
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/AskApollo.Domain.pdb
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Domain/obj/Debug/net7.0/ref/AskApollo.Domain.dll
