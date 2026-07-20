@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AskApollo.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b564d0dac7092c1a92ad617185f77a47f848ec4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46e938534a6b4983b028d3884867e8f3af5dfede")]
 [assembly: System.Reflection.AssemblyProductAttribute("AskApollo.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AskApollo.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
