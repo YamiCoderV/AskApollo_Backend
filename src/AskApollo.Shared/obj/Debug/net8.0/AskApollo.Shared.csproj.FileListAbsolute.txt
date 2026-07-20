@@ -1,0 +1,12 @@
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/bin/Debug/net8.0/AskApollo.Shared.deps.json
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/bin/Debug/net8.0/AskApollo.Shared.dll
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/bin/Debug/net8.0/AskApollo.Shared.pdb
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/AskApollo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/AskApollo.Shared.AssemblyInfoInputs.cache
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/AskApollo.Shared.AssemblyInfo.cs
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/AskApollo.Shared.csproj.CoreCompileInputs.cache
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/AskApollo.Shared.sourcelink.json
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/AskApollo.Shared.dll
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/refint/AskApollo.Shared.dll
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/AskApollo.Shared.pdb
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Shared/obj/Debug/net8.0/ref/AskApollo.Shared.dll

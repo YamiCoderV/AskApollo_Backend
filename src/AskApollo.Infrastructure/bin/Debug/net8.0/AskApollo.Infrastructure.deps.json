@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AskApollo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AskApollo.Application": "1.0.0",
+          "AskApollo.Domain": "1.0.0",
+          "AskApollo.Shared": "1.0.0"
+        },
+        "runtime": {
+          "AskApollo.Infrastructure.dll": {}
+        }
+      },
+      "AskApollo.Application/1.0.0": {
+        "dependencies": {
+          "AskApollo.Domain": "1.0.0",
+          "AskApollo.Shared": "1.0.0"
+        },
+        "runtime": {
+          "AskApollo.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AskApollo.Domain/1.0.0": {
+        "runtime": {
+          "AskApollo.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AskApollo.Shared/1.0.0": {
+        "runtime": {
+          "AskApollo.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AskApollo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AskApollo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AskApollo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AskApollo.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
