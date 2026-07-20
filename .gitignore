@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+obj/
+
+# User files
+.vs/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Test Results
+TestResults/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
