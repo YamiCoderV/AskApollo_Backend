@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AskApollo.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0475987df21f333a07117678adbec29303b95ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+238417ae147ae3e586ffc6ed15ef72f960a6f256")]
 [assembly: System.Reflection.AssemblyProductAttribute("AskApollo.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AskApollo.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
