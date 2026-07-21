@@ -118,3 +118,8 @@
 /Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/obj/Debug/net8.0/AskApollo.Tests.pdb
 /Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/obj/Debug/net8.0/AskApollo.Tests.genruntimeconfig.cache
 /Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/obj/Debug/net8.0/ref/AskApollo.Tests.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Npgsql.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll

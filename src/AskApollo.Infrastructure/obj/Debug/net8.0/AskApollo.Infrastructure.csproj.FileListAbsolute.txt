@@ -18,3 +18,5 @@
 /Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/obj/Debug/net8.0/refint/AskApollo.Infrastructure.dll
 /Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/obj/Debug/net8.0/AskApollo.Infrastructure.pdb
 /Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/obj/Debug/net8.0/ref/AskApollo.Infrastructure.dll
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/bin/Debug/net8.0/AskApollo.Infrastructure.runtimeconfig.json
+/Users/amiyyadav/AskApollo_Backend/src/AskApollo.Infrastructure/obj/Debug/net8.0/AskApollo.Infrastructure.genruntimeconfig.cache
