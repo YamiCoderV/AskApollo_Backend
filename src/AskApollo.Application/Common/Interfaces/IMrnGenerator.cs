@@ -2,5 +2,5 @@ namespace AskApollo.Application.Common.Interfaces;
 
 public interface IMrnGenerator
 {
-    string Generate();
+    Task<string> GenerateAsync(CancellationToken cancellationToken);
 }
