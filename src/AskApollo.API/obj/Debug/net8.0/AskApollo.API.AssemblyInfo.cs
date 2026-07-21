@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AskApollo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b480324715c24f469fe6a580a4a1966fc65a82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc18e616444c8edbfd0d871b46ac0f7b3ac52516")]
 [assembly: System.Reflection.AssemblyProductAttribute("AskApollo.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AskApollo.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

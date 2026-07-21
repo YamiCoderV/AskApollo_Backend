@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AskApollo.Infrastructure.Persistence;
 
-public sealed class AskApolloDbContext : DbContext
+public sealed  class AskApolloDbContext : DbContext
 {
     public AskApolloDbContext(DbContextOptions<AskApolloDbContext> options)
         : base(options)
