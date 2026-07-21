@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AskApollo.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+948c13324980f28d309d03af21aae43adc41f2ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4362829146f96161b581d2e78b6cfb5a158b8496")]
 [assembly: System.Reflection.AssemblyProductAttribute("AskApollo.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AskApollo.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
