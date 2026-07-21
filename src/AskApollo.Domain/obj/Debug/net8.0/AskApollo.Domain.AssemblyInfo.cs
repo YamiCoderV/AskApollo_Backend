@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AskApollo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46d1101a2078b50e8677c64b7df8ac7bd6bc3afd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a868431b944bf05e061fbbfa88ca3a3f4c04230a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AskApollo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AskApollo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

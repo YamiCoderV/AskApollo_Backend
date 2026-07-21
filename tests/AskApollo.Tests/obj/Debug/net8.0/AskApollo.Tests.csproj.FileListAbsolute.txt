@@ -123,3 +123,8 @@
 /Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Npgsql.dll
 /Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/FluentValidation.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/MediatR.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/amiyyadav/AskApollo_Backend/tests/AskApollo.Tests/bin/Debug/net8.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
